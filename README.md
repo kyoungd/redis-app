@@ -1,5 +1,4 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+Starting project for redis
 
 # REDIS - clear it (start node client)
 node
